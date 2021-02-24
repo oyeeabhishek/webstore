@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/webstore/static/css/main.4b4f7940.chunk.css",
+    "main.js": "/webstore/static/js/main.ba27ca56.chunk.js",
+    "main.js.map": "/webstore/static/js/main.ba27ca56.chunk.js.map",
+    "runtime-main.js": "/webstore/static/js/runtime-main.b7ba7d39.js",
+    "runtime-main.js.map": "/webstore/static/js/runtime-main.b7ba7d39.js.map",
+    "static/js/2.634fa15f.chunk.js": "/webstore/static/js/2.634fa15f.chunk.js",
+    "static/js/2.634fa15f.chunk.js.map": "/webstore/static/js/2.634fa15f.chunk.js.map",
+    "index.html": "/webstore/index.html",
+    "static/css/main.4b4f7940.chunk.css.map": "/webstore/static/css/main.4b4f7940.chunk.css.map",
+    "static/js/2.634fa15f.chunk.js.LICENSE.txt": "/webstore/static/js/2.634fa15f.chunk.js.LICENSE.txt",
+    "static/media/Agri.4777c6ed.png": "/webstore/static/media/Agri.4777c6ed.png",
+    "static/media/a.e1c94fed.jpeg": "/webstore/static/media/a.e1c94fed.jpeg",
+    "static/media/bk.329b6f9c.png": "/webstore/static/media/bk.329b6f9c.png",
+    "static/media/c.6a38a63f.jpg": "/webstore/static/media/c.6a38a63f.jpg",
+    "static/media/cowfood.f1e98a51.jpg": "/webstore/static/media/cowfood.f1e98a51.jpg",
+    "static/media/cowfood2.a9cda7da.jpg": "/webstore/static/media/cowfood2.a9cda7da.jpg",
+    "static/media/cowfood3.2f8233de.jpg": "/webstore/static/media/cowfood3.2f8233de.jpg",
+    "static/media/custom.3e1dc048.png": "/webstore/static/media/custom.3e1dc048.png",
+    "static/media/farmer1.9dd580c5.jpg": "/webstore/static/media/farmer1.9dd580c5.jpg",
+    "static/media/ferti.f825a01f.jpg": "/webstore/static/media/ferti.f825a01f.jpg",
+    "static/media/ferti2.ee095eef.jpg": "/webstore/static/media/ferti2.ee095eef.jpg",
+    "static/media/fs.bda87ac0.jpg": "/webstore/static/media/fs.bda87ac0.jpg",
+    "static/media/mac1.3fcb0923.jpg": "/webstore/static/media/mac1.3fcb0923.jpg",
+    "static/media/p1.ba00232e.jpg": "/webstore/static/media/p1.ba00232e.jpg",
+    "static/media/seeds.ff1beae5.jpg": "/webstore/static/media/seeds.ff1beae5.jpg",
+    "static/media/seeds2.674c60ac.jpg": "/webstore/static/media/seeds2.674c60ac.jpg",
+    "static/media/tool1.3aab22e4.jpg": "/webstore/static/media/tool1.3aab22e4.jpg",
+    "static/media/tool2.37dfd7f3.jpg": "/webstore/static/media/tool2.37dfd7f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7ba7d39.js",
+    "static/js/2.634fa15f.chunk.js",
+    "static/css/main.4b4f7940.chunk.css",
+    "static/js/main.ba27ca56.chunk.js"
+  ]
+}
